@@ -59,5 +59,12 @@ Pilot your advanced spacecraft, destroy incoming alien ships, dodge collisions, 
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ▶️ How to Run the Game Locally
+
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/spaceshooter
 
